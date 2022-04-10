@@ -5,10 +5,16 @@
     box-sizing: border-box;
     color: #393c41;
 }
-
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
 body{
     width: 100%;
     overflow-x: hidden;
+ 
 }
 
 @keyframes animateDown{
