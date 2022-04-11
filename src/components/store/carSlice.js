@@ -1,9 +1,18 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-createSlice({
-    name: a,
-    initialState: a,
+const initialState = {
+    cars: ['Model S', 'Model 3', 'Moral X', 'Model Y']
+}
+
+
+const carSlice = createSlice({
+    name: "car",
+    initialState:initialState,
     reducers: {
-     
+        
     }
 })
+
+export const selectCars = state => state.car.cars;
+
+export default carSlice.reducer;

@@ -4,8 +4,11 @@ import MenuIcon from "@material-ui/icons/Menu";
 import { styled } from "@material-ui/core";
 import CloseIcon from "@material-ui/icons/Close";
 import transitions from "@material-ui/core/styles/transitions";
+import {selectCars} from './store/carSlice';
+import { useSelector } from "react-redux";
 function Header() {
   const [burgerStatus, setBurgerStatus] = useState(false);
+  
   return (
     <Container>
       <a>
