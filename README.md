@@ -1,3 +1,22 @@
+# Project Description
+
+Tesla clone using style components & react redux.
+
+# Project ScreenShots
+
+
+
+![Screenshot from 2022-04-24 11-14-05](https://user-images.githubusercontent.com/99875782/165360606-749a5be6-08f5-41dd-b63c-b1e605ce01b7.png)
+
+
+
+![Screenshot from 2022-04-24 11-14-34](https://user-images.githubusercontent.com/99875782/165360617-adab6e58-94f6-49e4-bc62-04ec97bdc27b.png)
+
+
+
+![Screenshot from 2022-04-24 11-15-04](https://user-images.githubusercontent.com/99875782/165360655-ddd39142-13fd-4a38-95f5-c8c7425ebcc5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
